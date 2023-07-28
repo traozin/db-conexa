@@ -42,27 +42,33 @@
     "categories": [
         {
             "id": 1,
-            "name": "Integrações"
+            "name": "Integrações",
+            "description" : "Integrações com outros sistemas"
         },
         {
             "id": 2,
-            "name": "Serviços"
+            "name": "Serviços",
+            "description" : "Serviços do sistema"
         },
         {
             "id": 3,
-            "name": "Financeiro"
+            "name": "Financeiro",
+            "description" : "Financeiro"
         },
         {
             "id": 4,
-            "name": "Agenda"
+            "name": "Agenda",
+            "description" : "Agenda"
         },
         {
             "id": 5,
-            "name": "Parceiros"
+            "name": "Parceiros",
+            "description" : "Parceiros"
         },
         {
             "id": 6,
-            "name": "Outros"
+            "name": "Outros",
+            "description" : "Outros"
         }
     ],
     "profile": {
