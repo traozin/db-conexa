@@ -4,23 +4,25 @@
             "id": 1,
             "author": "traozin",
             "title": "Olá Mundo",
-            "category": 6,
-            "date" : "28/07/2023"            
+            "category": "Outros",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed faucibus nibh, quis dignissim enim. Vivamus ac ante blandit lectus tempus commodo. Fusce varius ornare justo ac mollis. Cras id mauris felis. Nunc pharetra nunc augue, ac vulputate justo placerat in. Phasellus quis sodales lectus, nec dignissim neque. Phasellus vel suscipit erat. Cras fermentum vulputate consequat. Proin fringilla massa vitae venenatis bibendum. Nullam eleifend varius lacus, id semper lorem eleifend vel.",
+            "date": "28/07/2023"
         },
         {
             "id": 2,
             "author": "marvelicent",
             "title": "Hello World",
-            "category": 6,
-            "date" : "28/07/2023"
-           
+            "category": "Outros",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed faucibus nibh, quis dignissim enim. Vivamus ac ante blandit lectus tempus commodo. Fusce varius ornare justo ac mollis. Cras id mauris felis. Nunc pharetra nunc augue, ac vulputate justo placerat in. Phasellus quis sodales lectus, nec dignissim neque. Phasellus vel suscipit erat. Cras fermentum vulputate consequat. Proin fringilla massa vitae venenatis bibendum. Nullam eleifend varius lacus, id semper lorem eleifend vel.",
+            "date": "28/07/2023"
         },
         {
             "id": 3,
             "author": "legendariop",
             "title": "#%¨@# #@(()*80",
-            "category": 6,
-            "date" : "28/07/2023"                        
+            "category": "Outros",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed faucibus nibh, quis dignissim enim. Vivamus ac ante blandit lectus tempus commodo. Fusce varius ornare justo ac mollis. Cras id mauris felis. Nunc pharetra nunc augue, ac vulputate justo placerat in. Phasellus quis sodales lectus, nec dignissim neque. Phasellus vel suscipit erat. Cras fermentum vulputate consequat. Proin fringilla massa vitae venenatis bibendum. Nullam eleifend varius lacus, id semper lorem eleifend vel.",
+            "date": "28/07/2023"
         }
     ],
     "users": [
@@ -44,32 +46,32 @@
         {
             "id": 1,
             "name": "Integrações",
-            "description" : "Integrações com outros sistemas"
+            "description": "Integrações com outros sistemas"
         },
         {
             "id": 2,
             "name": "Serviços",
-            "description" : "Serviços do sistema"
+            "description": "Serviços do sistema"
         },
         {
             "id": 3,
             "name": "Financeiro",
-            "description" : "Financeiro"
+            "description": "Financeiro"
         },
         {
             "id": 4,
             "name": "Agenda",
-            "description" : "Agenda"
+            "description": "Agenda"
         },
         {
             "id": 5,
             "name": "Parceiros",
-            "description" : "Parceiros"
+            "description": "Parceiros"
         },
         {
             "id": 6,
             "name": "Outros",
-            "description" : "Outros"
+            "description": "Outros"
         }
     ],
     "profile": {
