@@ -1,0 +1,36 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "author": "traozin",
+            "title": "Olá Mundo"
+        },
+        {
+            "id": 2,
+            "author": "marvelicent",
+            "title": "Hello World"
+        },
+        {
+            "id": 3,
+            "author": "legendariop",
+            "title": "#%¨@# #@(()*80"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "traozin"
+        },
+        {
+            "id": 2,
+            "name": "marvelicent"
+        },
+        {
+            "id": 3,
+            "name": "legendariop"
+        }
+    ],
+    "profile": {
+        "name": "traozin"
+    }
+}
