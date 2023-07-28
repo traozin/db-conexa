@@ -3,31 +3,63 @@
         {
             "id": 1,
             "author": "traozin",
-            "title": "Olá Mundo"
+            "title": "Olá Mundo",
+            "status": 1
         },
         {
             "id": 2,
             "author": "marvelicent",
-            "title": "Hello World"
+            "title": "Hello World",
+            "status": 1
         },
         {
             "id": 3,
             "author": "legendariop",
-            "title": "#%¨@# #@(()*80"
+            "title": "#%¨@# #@(()*80",
+            "status": 1
         }
     ],
     "users": [
         {
             "id": 1,
-            "name": "traozin"
+            "username": "traozin",
+            "name": "Antônio Neto"
         },
         {
             "id": 2,
-            "name": "marvelicent"
+            "username": "marvelicent",
+            "name": "Maria Eduarda"
         },
         {
             "id": 3,
-            "name": "legendariop"
+            "username": "legendariop",
+            "name": "Pablo Luan"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Integrações"
+        },
+        {
+            "id": 2,
+            "name": "Serviços"
+        },
+        {
+            "id": 3,
+            "name": "Financeiro"
+        },
+        {
+            "id": 4,
+            "name": "Agenda"
+        },
+        {
+            "id": 5,
+            "name": "Parceiros"
+        },
+        {
+            "id": 6,
+            "name": "Outros"
         }
     ],
     "profile": {
