@@ -4,18 +4,21 @@
             "id": 1,
             "author": "traozin",
             "title": "Olá Mundo",
+            "category": 6,
             "status": 1
         },
         {
             "id": 2,
             "author": "marvelicent",
             "title": "Hello World",
+            "category": 6,
             "status": 1
         },
         {
             "id": 3,
             "author": "legendariop",
             "title": "#%¨@# #@(()*80",
+            "category": 6,
             "status": 1
         }
     ],
